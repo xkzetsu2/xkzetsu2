@@ -73,16 +73,14 @@ Meu trabalho parte da análise: entender como um sistema realmente funciona, doc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" height="165" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xkzetsu2&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkzetsu2&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" height="165" alt="top languages"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFFFFF" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xkzetsu2&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFFFFF" alt="streak"/>
 
 </div>
-
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub nos três links acima.
 
 <img src="https://raw.githubusercontent.com/xkzetsu2/naori_assets/main/divider.gif" width="100%" alt=""/>
 
