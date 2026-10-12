@@ -1,57 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFFFFF&height=220&section=header&text=H%20A%20C%20K%20E%20D&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=THE%20SLEEPER%20MUST%20AWAKEN&descSize=18&descAlignY=65" width="100%"/>
+<img src="https://raw.githubusercontent.com/xkzetsu2/naori_assets/main/header.gif" width="100%" alt="Reverse Engineering — Security Research"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&height=50&lines=%3E+reverse_engineering+--apps+--hardware;%3E+python+%7C+bash+%7C+ruby+%7C+qt;%3E+technical+hacking+%26+infosec;%3E+system+status%3A+ONLINE" alt="typing"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&duration=3200&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=720&height=44&lines=Reverse+engineering+of+software+and+hardware;Binary+%2B+firmware+analysis;Tooling+and+automation+in+Python%2C+Bash%2C+Ruby+and+Qt;Technical+security+research" alt="typing"/>
 
 <br>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│ SEC_EP_RCN.002          /CODE.SIGNALE            6.31.348    │
-│ CAUTION ▸ NEW MAGNETIC TAPE COMPLETE                         │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![](https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=FFFFFF&color=000000)
 ![](https://img.shields.io/badge/FOCUS-REVERSE%20ENGINEERING-FFFFFF?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/MODE-HACKING%20T%C3%89CNICO-000000?style=for-the-badge&labelColor=FFFFFF)
+![](https://img.shields.io/badge/AREA-SECURITY%20RESEARCH-000000?style=for-the-badge&labelColor=FFFFFF)
+![](https://img.shields.io/badge/STACK-PYTHON%20%7C%20BASH%20%7C%20RUBY%20%7C%20QT-FFFFFF?style=for-the-badge&labelColor=000000)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/xkzetsu2/naori_assets/main/divider.gif" width="100%" alt=""/>
 
-## `/// 01 :: SOBRE`
+## `[ 01 ]` 概要 &nbsp;/&nbsp; SOBRE
 
-```
-> whoami
-```
+Desenvolvedor e pesquisador técnico de segurança da informação, com atuação em **engenharia reversa de aplicativos e hardware**, análise de binários e firmware e desenvolvimento de ferramentas de automação e interfaces.
 
-Programador e especialista em **hacking técnico de informática**, com foco em **engenharia reversa de aplicativos e hardware**.
-Gosto de abrir caixas-pretas, entender como as coisas funcionam por dentro e transformar esse conhecimento em ferramentas.
+Meu trabalho parte da análise: entender como um sistema realmente funciona, documentar o comportamento observado e transformar esse conhecimento em ferramentas reutilizáveis.
 
-```
-> cat skills.txt
-```
+| 領域 &nbsp;/&nbsp; ÁREA | ATUAÇÃO |
+|:--|:--|
+| **Engenharia reversa de software** | Análise estática e dinâmica de aplicativos e binários |
+| **Engenharia reversa de hardware** | Análise de circuitos, extração de firmware e protocolos de comunicação |
+| **Segurança técnica** | Pesquisa e análise de sistemas e infraestrutura de TI |
+| **Desenvolvimento** | Ferramentas de linha de comando, automações e interfaces gráficas |
 
-| MÓDULO | DESCRIÇÃO |
-|:-------|:----------|
-| `RE-APPS` | Engenharia reversa de aplicativos (análise estática e dinâmica) |
-| `RE-HW`   | Engenharia reversa de hardware (análise de circuitos, firmware e protocolos) |
-| `HACK-TEC`| Hacking técnico em informática e análise de sistemas |
-| `DEV`     | Desenvolvimento de ferramentas, automações e interfaces |
+<img src="https://raw.githubusercontent.com/xkzetsu2/naori_assets/main/divider.gif" width="100%" alt=""/>
 
----
-
-## `/// 02 :: STACK`
+## `[ 02 ]` 技術 &nbsp;/&nbsp; STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,ruby,qt,linux,git,github,vscode,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,ruby,qt,linux,c,cpp,git,github,vscode&theme=dark" alt="stack"/>
 
 <br><br>
 
@@ -63,78 +45,60 @@ Gosto de abrir caixas-pretas, entender como as coisas funcionam por dentro e tra
 
 </div>
 
-```
-LANG ▸ PYTHON ████████████████████ 
-LANG ▸ BASH   ███████████████████░
-LANG ▸ RUBY   ████████████████░░░░
-LANG ▸ QT     ███████████████░░░░░
-```
+| LINGUAGEM | USO PRINCIPAL |
+|:--|:--|
+| **Python** | Ferramentas de análise, parsing de formatos e protocolos, automação |
+| **Bash** | Automação de fluxos, integração de ferramentas, scripts de sistema |
+| **Ruby** | Scripts utilitários e prototipagem de ferramentas |
+| **Qt** | Interfaces gráficas para ferramentas técnicas |
 
----
+<img src="https://raw.githubusercontent.com/xkzetsu2/naori_assets/main/divider.gif" width="100%" alt=""/>
 
-## `/// 03 :: ARSENAL`
+## `[ 03 ]` 能力 &nbsp;/&nbsp; CAPACIDADES
 
 <div align="center">
 
-| `[ SOFTWARE ]` | `[ HARDWARE ]` | `[ SCRIPTING ]` |
-|:---:|:---:|:---:|
-| 🔍 Disassembly | 🔌 UART / SPI / I2C | 🐍 Python tools |
-| 🧬 Decompilação | 💾 Dump de firmware | 🐚 Automação Bash |
-| 🪝 Hooking | 🧲 Análise de circuitos | 💎 Ruby scripts |
-| 📦 Análise de APK / binários | 📡 Sniffing de protocolos | 🖥️ GUIs com Qt |
+| 🧬 &nbsp;SOFTWARE | 🔌 &nbsp;HARDWARE | ⚙️ &nbsp;FERRAMENTAS |
+|:--|:--|:--|
+| Disassembly e decompilação | Análise de circuitos | Utilitários em Python |
+| Análise de APK e binários | Interfaces UART / SPI / I2C | Automação em Bash |
+| Hooking e instrumentação | Extração e análise de firmware | Scripts em Ruby |
+| Análise de protocolos | Captura de protocolos de comunicação | Interfaces em Qt |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/xkzetsu2/naori_assets/main/divider.gif" width="100%" alt=""/>
 
-## `/// 04 :: SYSTEM_LOG`
+## `[ 04 ]` 活動 &nbsp;/&nbsp; ATIVIDADE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" height="165" alt="top languages"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFFFFF" alt="streak"/>
 
 </div>
 
-> ⚠️ Troque `SEU_USUARIO` pelo seu nome de usuário do GitHub.
+> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub nos três links acima.
 
----
+<img src="https://raw.githubusercontent.com/xkzetsu2/naori_assets/main/divider.gif" width="100%" alt=""/>
 
-## `/// 05 :: CONTATO`
-
-```
-> establishing connection...
-> channel open ▸ ▓▓▓▓▓▓▓▓▓▓ 100%
-```
+## `[ 05 ]` 連絡 &nbsp;/&nbsp; CONTATO
 
 <div align="center">
 
 <a href="https://wa.me/5598985252253">
-  <img src="https://img.shields.io/badge/WHATSAPP-+55%2098%2098525--2253-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  <img src="https://img.shields.io/badge/WHATSAPP-+55%2098%2098525--2253-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=black" alt="WhatsApp"/>
 </a>
 <a href="https://www.pinterest.com/xk_xzl">
-  <img src="https://img.shields.io/badge/PINTEREST-@xk__xzl-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  <img src="https://img.shields.io/badge/PINTEREST-@xk__xzl-000000?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────┐
-│  对角線  /  水平        ARRAY // N3 · デザイン  │
-│  _AW.2K65™      PD-3P      END OF TRANSMISSION │
-└────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=30&lines=Reverse+everything.;Understand+the+machine.;The+sleeper+must+awaken." alt="footer"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/xkzetsu2/naori_assets/main/footer.gif" width="100%" alt="Understand the machine — 機械を理解する"/>
 
 </div>
